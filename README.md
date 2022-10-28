@@ -1,1 +1,2 @@
-Estudando OCaml a linguagem dos camelos
+Studying from the source:
+https://ocaml.org/docs 
